@@ -63,8 +63,15 @@ Given a list of daily expenditures, calculate the total number of notifications 
 2. **Count Array**:
     - Opted for the count array due to its simplicity and efficiency.
     - Suitable for the limited range of withdrawals in the problem.
+    - **Reason for selection**:
+        - Provided a balance between performance and simplicity.
+        - Reduced complexity and memory overhead compared to other approaches.
 
 ---
 
 ## Conclusion
-The solution employs a sliding window technique with a count array for optimized performance. This approach ensures efficiency, accuracy, and scalability while avoiding unnecessary complexity. By focusing on the thought process, challenges, and alternative approaches, this project highlights the importance of structured problem-solving in technical challenges.
+This solution effectively leverages a sliding window technique combined with a count array to deliver an optimized, scalable, and efficient approach to solving the problem. By minimizing complexity and addressing performance bottlenecks, it demonstrates a pragmatic balance between computational efficiency and implementation simplicity.
+
+Through a structured exploration of thought processes, challenges, and alternative approaches, this project not only provides a robust solution but also highlights the importance of critical thinking, adaptability, and precision in technical problem-solving. This methodology serves as a valuable blueprint for tackling similar algorithmic challenges.
+
+---
