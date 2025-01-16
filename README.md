@@ -1,7 +1,8 @@
 # Fraudulent Activity Notifications
 
 ## Overview
-This repository contains a solution for the *Fraudulent Activity Notifications* challenge. The goal is to demonstrate a structured approach to problem-solving, emphasizing the thought process, steps taken, and the rationale behind decisions. The focus is not solely on the final answer but on showcasing a unique approach and the learning journey.
+This repository contains a solution for the [Fraudulent Activity Notifications - HackerRank](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)
+challenge. The goal is to demonstrate a structured approach to problem-solving, emphasizing the thought process, steps taken, and the rationale behind decisions. The focus is not solely on the final answer but on showcasing a unique approach and the learning journey.
 
 ---
 
